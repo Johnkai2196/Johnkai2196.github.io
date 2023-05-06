@@ -215,7 +215,7 @@ query Query {
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <a class="navbar-brand mt-2 mt-lg-0" href="/" data-navigo>
         <img
-          src="../src/image/O-removebg-preview.png"
+          src="./src/image/O-removebg-preview.png"
           height="30"
           alt="Otaku Connect"
           loading="lazy"
@@ -229,7 +229,7 @@ query Query {
     <div class="d-flex align-items-center">
       ${e?`<img
                   id="addPost"
-                  src="../src/image/icons8-plus-+-48.png"
+                  src="./src/image/icons8-plus-+-48.png"
                   class="rounded-circle mr-2"
                   height="25"
                   alt="add post"
